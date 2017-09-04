@@ -1,0 +1,10 @@
+{
+"name": "emergence",
+"version": "1.0.0",
+"description": "frontemergence",
+"autor": "mathieu",
+"private": true,
+"scripts": {
+	"postinstall": "npm install express"
+	}
+}
